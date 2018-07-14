@@ -19,4 +19,5 @@ flutter:
         - asset: fonts/Ubuntu-Bold.ttf
 
   assets:
-    - assets/cats.json      
+    - assets/cats.json
+    - images/profile_header_background.png      
